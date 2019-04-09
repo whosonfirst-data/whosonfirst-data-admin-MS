@@ -1,0 +1,60 @@
+{
+  "id": 1310323751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.23042,16.73958,-62.23042,16.73958",
+    "geom:latitude":16.73958,
+    "geom:longitude":-62.23042,
+    "gn:asciiname":"Garibaldi Hill",
+    "gn:country_code":"MS",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260783,
+    "gn:latitude":16.73958,
+    "gn:longitude":-62.23042,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Garibaldi Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260783
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"e3b4c41a70380ac8d621a1ac7909d34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310323751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310323751,
+    "wof:lastmodified":1536681607,
+    "wof:name":"Garibaldi Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.23042,
+    16.73958,
+    -62.23042,
+    16.73958
+],
+  "geometry": {"coordinates":[-62.23042,16.73958],"type":"Point"}
+}

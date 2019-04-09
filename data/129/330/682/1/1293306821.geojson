@@ -1,0 +1,61 @@
+{
+  "id": 1293306821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.18333,16.66667,-62.18333,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":-62.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shooters Hill",
+    "gn:country_code":"MS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578031,
+    "gn:latitude":16.66667,
+    "gn:longitude":-62.18333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Shooters Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578031
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"7d7c544fb5ae77e79f0aff3372f427a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293306821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293306821,
+    "wof:lastmodified":1537045521,
+    "wof:name":"Shooters Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.18333000000001,
+    16.66667,
+    -62.18333000000001,
+    16.66667
+],
+  "geometry": {"coordinates":[-62.18333000000001,16.66667],"type":"Point"}
+}

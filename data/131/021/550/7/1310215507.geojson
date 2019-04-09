@@ -1,0 +1,60 @@
+{
+  "id": 1310215507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.18438,16.8183,-62.18438,16.8183",
+    "geom:latitude":16.8183,
+    "geom:longitude":-62.18438,
+    "gn:asciiname":"Hell's Gate",
+    "gn:country_code":"MS",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7114060,
+    "gn:latitude":16.8183,
+    "gn:longitude":-62.18438,
+    "gn:modification_date":"2009-12-02",
+    "gn:name":"Hell's Gate",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7114060
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"c390f1be0b24884d6e02a64b616648bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310215507,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310215507,
+    "wof:lastmodified":1536836668,
+    "wof:name":"Hell's Gate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.18438,
+    16.8183,
+    -62.18438,
+    16.8183
+],
+  "geometry": {"coordinates":[-62.18438,16.8183],"type":"Point"}
+}

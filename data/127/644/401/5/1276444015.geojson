@@ -1,0 +1,68 @@
+{
+  "id": 1276444015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.2051,16.79443,-62.2051,16.79443",
+    "geom:latitude":16.79443,
+    "geom:longitude":-62.2051,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Davy Hill",
+    "gn:country_code":"MS",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578197,
+    "gn:latitude":16.79443,
+    "gn:longitude":-62.2051,
+    "gn:modification_date":"2009-12-02",
+    "gn:name":"Davy Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674921,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578197
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"8c36704b582081ed4c3479b8a0cbfea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1276444015,
+            "region_id":85674921
+        }
+    ],
+    "wof:id":1276444015,
+    "wof:lastmodified":1536628571,
+    "wof:name":"Davy Hill",
+    "wof:parent_id":85674921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.2051,
+    16.79443,
+    -62.2051,
+    16.79443
+],
+  "geometry": {"coordinates":[-62.2051,16.79443],"type":"Point"}
+}

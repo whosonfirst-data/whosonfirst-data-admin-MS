@@ -1,0 +1,73 @@
+{
+  "id": 1343669471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.2,16.8,-62.2,16.8",
+    "geom:latitude":16.8,
+    "geom:longitude":-62.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rendezvous",
+    "gn:cc2":"MS",
+    "gn:country_code":"MS",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578062,
+    "gn:latitude":16.8,
+    "gn:longitude":-62.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rendezvous",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rendezvous Village",
+        "Rendezvous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674921,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578062
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"367d71358697d1ff0da19b1b646d2676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1343669471,
+            "region_id":85674921
+        }
+    ],
+    "wof:id":1343669471,
+    "wof:lastmodified":1537665817,
+    "wof:name":"Rendezvous",
+    "wof:parent_id":85674921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.2,
+    16.8,
+    -62.2,
+    16.8
+],
+  "geometry": {"coordinates":[-62.2,16.8],"type":"Point"}
+}

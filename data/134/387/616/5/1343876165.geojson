@@ -1,0 +1,68 @@
+{
+  "id": 1343876165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.21742,16.72934,-62.21742,16.72934",
+    "geom:latitude":16.72934,
+    "geom:longitude":-62.21742,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Weekes",
+    "gn:country_code":"MS",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577987,
+    "gn:latitude":16.72934,
+    "gn:longitude":-62.21742,
+    "gn:modification_date":"2009-12-02",
+    "gn:name":"Weekes",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674911,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577987
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"59e49de2282bc55739cbfa75e3daa516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1343876165,
+            "region_id":85674911
+        }
+    ],
+    "wof:id":1343876165,
+    "wof:lastmodified":1536643268,
+    "wof:name":"Weekes",
+    "wof:parent_id":85674911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.21742,
+    16.72934,
+    -62.21742,
+    16.72934
+],
+  "geometry": {"coordinates":[-62.21742,16.72934],"type":"Point"}
+}

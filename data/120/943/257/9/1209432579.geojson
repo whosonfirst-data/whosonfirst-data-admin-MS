@@ -1,0 +1,61 @@
+{
+  "id": 1209432579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.19678,16.72614,-62.19678,16.72614",
+    "geom:latitude":16.72614,
+    "geom:longitude":-62.19678,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gages",
+    "gn:country_code":"MS",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578168,
+    "gn:latitude":16.72614,
+    "gn:longitude":-62.19678,
+    "gn:modification_date":"2009-12-02",
+    "gn:name":"Gages",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578168
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"69cfef817e8a922a685a13ba6cea0097",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632677,
+            "locality_id":1209432579
+        }
+    ],
+    "wof:id":1209432579,
+    "wof:lastmodified":1536287196,
+    "wof:name":"Gages",
+    "wof:parent_id":85632677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.19678,
+    16.72614,
+    -62.19678,
+    16.72614
+],
+  "geometry": {"coordinates":[-62.19678,16.72614],"type":"Point"}
+}

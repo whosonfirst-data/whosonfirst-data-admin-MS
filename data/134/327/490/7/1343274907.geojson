@@ -1,0 +1,68 @@
+{
+  "id": 1343274907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.15,16.73333,-62.15,16.73333",
+    "geom:latitude":16.73333,
+    "geom:longitude":-62.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Spanish Point",
+    "gn:country_code":"MS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3578023,
+    "gn:latitude":16.73333,
+    "gn:longitude":-62.15,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Spanish Point",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674917,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578023
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"fe6fcc547f52e1cd90d514905464c0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1343274907,
+            "region_id":85674917
+        }
+    ],
+    "wof:id":1343274907,
+    "wof:lastmodified":1537013278,
+    "wof:name":"Spanish Point",
+    "wof:parent_id":85674917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.15,
+    16.73333,
+    -62.15,
+    16.73333
+],
+  "geometry": {"coordinates":[-62.15,16.73333],"type":"Point"}
+}

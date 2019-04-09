@@ -1,0 +1,73 @@
+{
+  "id": 890420185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.19103,16.78215,-62.19103,16.78215",
+    "geom:latitude":16.78215,
+    "geom:longitude":-62.19103,
+    "gn:country":"MS",
+    "gn:fcode":"PPL",
+    "gn:pop":627,
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Saint John's"
+    ],
+    "qs:name":"Saint John's Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        85632677,
+        85674921,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578041,
+        "gp:id":110841,
+        "qs:id":95984,
+        "wd:id":"Q7232683",
+        "wk:page":"Portuguese Settlement, Malacca"
+    },
+    "wof:country":"MS",
+    "wof:created":1469051322,
+    "wof:geomhash":"93052879d421fdfe1ead23b21c28777d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":890420185,
+            "region_id":85674921
+        }
+    ],
+    "wof:id":890420185,
+    "wof:lastmodified":1527792813,
+    "wof:name":"Saint John's Village",
+    "wof:parent_id":85674921,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.19103,
+    16.78215,
+    -62.19103,
+    16.78215
+],
+  "geometry": {"coordinates":[-62.19103,16.78215],"type":"Point"}
+}

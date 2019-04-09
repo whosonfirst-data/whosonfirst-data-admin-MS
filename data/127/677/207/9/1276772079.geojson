@@ -1,0 +1,71 @@
+{
+  "id": 1276772079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.16498,16.70941,-62.16498,16.70941",
+    "geom:latitude":16.70941,
+    "geom:longitude":-62.16498,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Long Ground Village (Destroyed)",
+    "gn:country_code":"MS",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3578109,
+    "gn:latitude":16.70941,
+    "gn:longitude":-62.16498,
+    "gn:modification_date":"2014-08-09",
+    "gn:name":"Long Ground Village (Destroyed)",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Long Ground"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674911,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578109
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"9fafaefe484bc46c0a8077b9523fb0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1276772079,
+            "region_id":85674911
+        }
+    ],
+    "wof:id":1276772079,
+    "wof:lastmodified":1537665817,
+    "wof:name":"Long Ground Village (Destroyed)",
+    "wof:parent_id":85674911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.16498000000001,
+    16.70941,
+    -62.16498000000001,
+    16.70941
+],
+  "geometry": {"coordinates":[-62.16498000000001,16.70941],"type":"Point"}
+}

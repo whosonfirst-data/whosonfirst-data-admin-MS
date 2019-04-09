@@ -1,0 +1,68 @@
+{
+  "id": 1225958451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.21667,16.7,-62.21667,16.7",
+    "geom:latitude":16.7,
+    "geom:longitude":-62.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Victoria",
+    "gn:country_code":"MS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577993,
+    "gn:latitude":16.7,
+    "gn:longitude":-62.21667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674911,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577993
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"882f54779be38b841d42566eb962a3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":1225958451,
+            "region_id":85674911
+        }
+    ],
+    "wof:id":1225958451,
+    "wof:lastmodified":1536849805,
+    "wof:name":"Victoria",
+    "wof:parent_id":85674911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.21666999999999,
+    16.7,
+    -62.21666999999999,
+    16.7
+],
+  "geometry": {"coordinates":[-62.21666999999999,16.7],"type":"Point"}
+}

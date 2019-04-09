@@ -1,0 +1,61 @@
+{
+  "id": 1209232325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.2,16.68333,-62.2,16.68333",
+    "geom:latitude":16.68333,
+    "geom:longitude":-62.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trials",
+    "gn:country_code":"MS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578002,
+    "gn:latitude":16.68333,
+    "gn:longitude":-62.2,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Trials",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578002
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"2cf41228b596b4d8dba9cb06bbfcc6b6",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632677,
+            "locality_id":1209232325
+        }
+    ],
+    "wof:id":1209232325,
+    "wof:lastmodified":1536293598,
+    "wof:name":"Trials",
+    "wof:parent_id":85632677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.2,
+    16.683329999999998,
+    -62.2,
+    16.683329999999998
+],
+  "geometry": {"coordinates":[-62.2,16.68333],"type":"Point"}
+}

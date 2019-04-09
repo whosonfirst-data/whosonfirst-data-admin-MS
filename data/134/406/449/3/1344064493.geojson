@@ -1,0 +1,61 @@
+{
+  "id": 1344064493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.22884,16.75433,-62.22884,16.75433",
+    "geom:latitude":16.75433,
+    "geom:longitude":-62.22884,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Olveston",
+    "gn:country_code":"MS",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3578079,
+    "gn:latitude":16.75433,
+    "gn:longitude":-62.22884,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Olveston",
+    "gn:population":0,
+    "gn:timezone":"America/Montserrat",
+    "iso:country":"MS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578079
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"5ea2e0f09ca04c1d98b18593e5b708d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344064493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344064493,
+    "wof:lastmodified":1536868505,
+    "wof:name":"Olveston",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.22884000000001,
+    16.75433,
+    -62.22884000000001,
+    16.75433
+],
+  "geometry": {"coordinates":[-62.22884000000001,16.75433],"type":"Point"}
+}

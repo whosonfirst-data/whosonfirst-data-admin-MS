@@ -40,13 +40,13 @@
     "name:cat_x_preferred":[
         "Brades"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u83b1\u5179"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Brades"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Brades"
+    ],
+    "name:deu_x_preferred":[
         "Brades"
     ],
     "name:ell_x_preferred":[
@@ -64,20 +64,11 @@
     "name:fin_x_preferred":[
         "Brades"
     ],
-    "name:fre_x_preferred":[
-        "Brades"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d4\u10d8\u10d3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Brades"
     ],
     "name:glg_x_preferred":[
         "Brades"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ad\u03b9\u03bd\u03c4\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d0\u05d3\u05e1"
@@ -106,14 +97,14 @@
     "name:lmo_x_preferred":[
         "Brades"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0435\u0458\u0434\u0441"
-    ],
-    "name:may_x_preferred":[
-        "Brades"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0435\u0458\u0434\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Brades"
+    ],
+    "name:nld_x_preferred":[
+        "Brades"
     ],
     "name:nno_x_preferred":[
         "Brades"
@@ -123,9 +114,6 @@
     ],
     "name:oci_x_preferred":[
         "Brades"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06cc\u062f\u0632"
     ],
     "name:pms_x_preferred":[
         "Brades"
@@ -142,7 +130,7 @@
     "name:sco_x_preferred":[
         "Brades"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brades"
     ],
     "name:spa_x_preferred":[
@@ -176,9 +164,6 @@
         "Brades"
     ],
     "name:war_x_preferred":[
-        "Brades"
-    ],
-    "name:wel_x_preferred":[
         "Brades"
     ],
     "name:yor_x_preferred":[
@@ -227,7 +212,7 @@
         }
     ],
     "wof:id":1125778197,
-    "wof:lastmodified":1514485305,
+    "wof:lastmodified":1561845091,
     "wof:name":"Brades",
     "wof:parent_id":85674921,
     "wof:placetype":"locality",

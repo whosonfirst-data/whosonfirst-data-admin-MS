@@ -15,6 +15,12 @@
     "iso:country":"MS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Portuguese Settlement"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Portugis"
+    ],
     "name:unk_x_variant":[
         "Saint John's"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890420185,
-    "wof:lastmodified":1527792813,
+    "wof:lastmodified":1563300291,
     "wof:name":"Saint John's Village",
     "wof:parent_id":85674921,
     "wof:placetype":"locality",

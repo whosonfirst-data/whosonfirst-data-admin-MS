@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":16.708405,
     "lbl:longitude":-62.191705,
     "mps:latitude":16.708405,
@@ -179,16 +182,13 @@
         }
     ],
     "wof:id":85674911,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564103436,
+    "wof:lastmodified":1565728069,
     "wof:name":"Saint Anthony",
     "wof:parent_id":85632677,
     "wof:placetype":"region",

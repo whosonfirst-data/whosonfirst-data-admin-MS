@@ -11,17 +11,21 @@
     "geom:longitude":-62.19103,
     "gn:country":"MS",
     "gn:fcode":"PPL",
-    "gn:pop":627,
+    "gn:population":627,
     "iso:country":"MS",
+    "lbl:bbox":"-62.21103,16.76215,-62.17103,16.80215",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Portuguese Settlement"
     ],
     "name:msa_x_preferred":[
         "Kampung Portugis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint John's"
     ],
     "qs:name":"Saint John's Village",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3578041,
         "gp:id":110841,
-        "qs:id":95984,
+        "qs_pg:id":95984,
         "wd:id":"Q7232683",
         "wk:page":"Portuguese Settlement, Malacca"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890420185,
-    "wof:lastmodified":1563300291,
+    "wof:lastmodified":1566612040,
     "wof:name":"Saint John's Village",
     "wof:parent_id":85674921,
     "wof:placetype":"locality",

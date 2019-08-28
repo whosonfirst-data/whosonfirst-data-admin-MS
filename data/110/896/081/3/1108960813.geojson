@@ -10,8 +10,12 @@
     "geom:latitude":16.704797,
     "geom:longitude":-62.213419,
     "iso:country":"MS",
+    "lbl:bbox":"-62.233419,16.684797,-62.193419,16.724797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Plymouth"
     ],
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":1108960813,
-    "wof:lastmodified":1563300287,
+    "wof:lastmodified":1566612038,
     "wof:name":"Plymouth",
     "wof:parent_id":85674911,
     "wof:placetype":"locality",

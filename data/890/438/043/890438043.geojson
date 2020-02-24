@@ -169,6 +169,9 @@
     },
     "wof:country":"MS",
     "wof:created":1469052177,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0522baaeae08a869e14694ff21bc051",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":890438043,
-    "wof:lastmodified":1566612040,
+    "wof:lastmodified":1582312419,
     "wof:name":"Salem",
     "wof:parent_id":85674921,
     "wof:placetype":"locality",

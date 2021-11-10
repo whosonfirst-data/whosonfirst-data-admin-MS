@@ -153,10 +153,16 @@
         "Richmond"
     ],
     "name:ukr_x_preferred":[
+        "\u0420\u0456\u0447\u043c\u043e\u043d\u0434"
+    ],
+    "name:ukr_x_variant":[
         "\u0420\u0438\u0447\u043c\u043e\u043d\u0434"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0686\u0645\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Richmond"
     ],
     "name:vol_x_preferred":[
         "Richmond"
@@ -179,7 +185,7 @@
         "gn:id":3578059
     },
     "wof:country":"MS",
-    "wof:geomhash":"882f54779be38b841d42566eb962a3e8",
+    "wof:geomhash":"4f3942d1c7792e17697e43cd8391c8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":1310715987,
-    "wof:lastmodified":1566612038,
+    "wof:lastmodified":1636494438,
     "wof:name":"Richmond",
     "wof:parent_id":85674911,
     "wof:placetype":"locality",
@@ -201,10 +207,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.21666999999999,
+    -62.21667,
     16.7,
-    -62.21666999999999,
+    -62.21667,
     16.7
 ],
-  "geometry": {"coordinates":[-62.21666999999999,16.7],"type":"Point"}
+  "geometry": {"coordinates":[-62.21667,16.7],"type":"Point"}
 }

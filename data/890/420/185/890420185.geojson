@@ -25,6 +25,9 @@
     "name:msa_x_preferred":[
         "Kampung Portugis"
     ],
+    "name:por_x_preferred":[
+        "Portuguese Settlement"
+    ],
     "name:und_x_variant":[
         "Saint John's"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890420185,
-    "wof:lastmodified":1566612040,
+    "wof:lastmodified":1690846214,
     "wof:name":"Saint John's Village",
     "wof:parent_id":85674921,
     "wof:placetype":"locality",

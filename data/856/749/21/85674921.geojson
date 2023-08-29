@@ -73,6 +73,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09a8\u09cd\u09a4 \u09aa\u09bf\u09a4\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u09cd\u09b0\u09c7\u09b0\u09bf\u09a4 \u09aa\u09bf\u09a4\u09b0"
+    ],
     "name:bod_x_preferred":[
         "\u0f54\u0f7a\u0f0b\u0f4f\u0fb2\u0f7c\u0f0d"
     ],
@@ -100,17 +103,29 @@
     "name:ces_x_preferred":[
         "Petr"
     ],
+    "name:ces_x_variant":[
+        "svat\u00fd Petr"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u06ce\u062a\u0631\u06c6\u0633"
     ],
+    "name:cor_x_preferred":[
+        "Peder"
+    ],
     "name:cym_x_preferred":[
         "Sant Pedr"
+    ],
+    "name:cym_x_variant":[
+        "Pedr"
     ],
     "name:dan_x_preferred":[
         "Apostlen Peter"
     ],
     "name:deu_x_preferred":[
         "Simon Petrus"
+    ],
+    "name:deu_x_variant":[
+        "Petrus"
     ],
     "name:diq_x_preferred":[
         "Petrus"
@@ -128,6 +143,9 @@
     ],
     "name:epo_x_preferred":[
         "Sankta Petro"
+    ],
+    "name:epo_x_variant":[
+        "Simono Petro"
     ],
     "name:est_x_preferred":[
         "Peetrus"
@@ -165,14 +183,23 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d8\u05e8\u05d5\u05e1"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f \u092a\u0940\u091f\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Petar"
+    ],
+    "name:hsb_x_preferred":[
+        "Syman P\u011btr"
     ],
     "name:hun_x_preferred":[
         "P\u00e9ter apostol"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0578\u057d \u0561\u057c\u0561\u0584\u0575\u0561\u056c"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u0578\u057d \u0561\u057c\u0561\u0584\u0565\u0561\u056c"
     ],
     "name:ido_x_preferred":[
         "Santo Petrus"
@@ -192,6 +219,9 @@
     "name:ita_x_preferred":[
         "Pietro apostolo"
     ],
+    "name:ita_x_variant":[
+        "Pietro"
+    ],
     "name:jav_x_preferred":[
         "Simon Petrus"
     ],
@@ -200,6 +230,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ec\u10db\u10d8\u10dc\u10d3\u10d0 \u10de\u10d4\u10e2\u10e0\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10d4\u10e2\u10e0\u10d4"
     ],
     "name:kom_x_preferred":[
         "\u041f\u0435\u0442\u044b\u0440 \u043b\u0443\u043d"
@@ -225,8 +258,14 @@
     "name:lit_x_preferred":[
         "Apa\u0161talas Petras"
     ],
+    "name:lld_x_preferred":[
+        "Apostul Pire"
+    ],
     "name:lmo_x_preferred":[
         "San Peder"
+    ],
+    "name:ltz_x_preferred":[
+        "Simon Petrus"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d24\u0d4d\u0d30\u0d4b\u0d38\u0d4d \u0d36\u0d4d\u0d32\u0d40\u0d39\u0d3e"
@@ -239,6 +278,9 @@
     ],
     "name:mlg_x_preferred":[
         "Petera"
+    ],
+    "name:mlt_x_preferred":[
+        "Pietru"
     ],
     "name:mon_x_preferred":[
         "\u0413\u044d\u0433\u044d\u044d\u043d \u041f\u0435\u0442\u0440"
@@ -279,6 +321,9 @@
     "name:pms_x_preferred":[
         "Simon-Pero"
     ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0637\u0631\u0633"
+    ],
     "name:pol_x_preferred":[
         "Piotr Aposto\u0142"
     ],
@@ -315,8 +360,14 @@
     "name:slv_x_preferred":[
         "Sveti Peter"
     ],
+    "name:slv_x_variant":[
+        "sveti Peter"
+    ],
     "name:spa_x_preferred":[
         "Sim\u00f3n Pedro"
+    ],
+    "name:spa_x_variant":[
+        "Pedro"
     ],
     "name:sqi_x_preferred":[
         "Sh\u00ebn Pjetri"
@@ -360,8 +411,14 @@
     "name:urd_x_preferred":[
         "\u067e\u0637\u0631\u0633"
     ],
+    "name:uzb_x_preferred":[
+        "Avliyo Pyotr"
+    ],
     "name:vec_x_preferred":[
         "San Piero"
+    ],
+    "name:vec_x_variant":[
+        "San Pi\u00e8ro"
     ],
     "name:vie_x_preferred":[
         "Saint Peter"
@@ -515,7 +572,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494438,
+    "wof:lastmodified":1690846213,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632677,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0644\u064a\u0645\u0648\u062b"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u064a\u0645\u0648\u062b"
+    ],
     "name:ast_x_preferred":[
         "Plymouth"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043b\u0456\u043c\u0443\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u043b\u0456\u043c\u0443\u0442"
     ],
     "name:bos_x_preferred":[
         "Plymouth"
@@ -79,6 +85,9 @@
     "name:fra_x_preferred":[
         "Plymouth"
     ],
+    "name:gle_x_preferred":[
+        "Plymouth"
+    ],
     "name:glg_x_preferred":[
         "Plymouth"
     ],
@@ -112,11 +121,17 @@
     "name:lav_x_preferred":[
         "Plimuta"
     ],
+    "name:lij_x_preferred":[
+        "Plymouth"
+    ],
     "name:lit_x_preferred":[
         "Plimutas"
     ],
     "name:lmo_x_preferred":[
         "Plymouth"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043b\u0438\u043c\u0443\u0442"
     ],
     "name:msa_x_preferred":[
         "Plymouth"
@@ -166,6 +181,9 @@
     "name:spa_x_preferred":[
         "Plymouth"
     ],
+    "name:srd_x_preferred":[
+        "Plymouth"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043b\u0438\u043c\u0443\u0442"
     ],
@@ -192,6 +210,9 @@
     ],
     "name:war_x_preferred":[
         "Plymouth"
+    ],
+    "name:wuu_x_preferred":[
+        "\u666e\u5229\u8305\u65af"
     ],
     "name:yor_x_preferred":[
         "Plymouth"
@@ -226,7 +247,7 @@
         }
     ],
     "wof:id":1108960813,
-    "wof:lastmodified":1566612038,
+    "wof:lastmodified":1690846213,
     "wof:name":"Plymouth",
     "wof:parent_id":85674911,
     "wof:placetype":"locality",

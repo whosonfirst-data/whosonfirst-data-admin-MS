@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001459,
-    "geom:area_square_m":17278270.189721,
+    "geom:area_square_m":17278140.025003,
     "geom:bbox":"-62.188632,16.720364,-62.147369,16.777004",
     "geom:latitude":16.745522,
     "geom:longitude":-62.167175,
@@ -195,11 +195,13 @@
         "gn:id":3578044,
         "gp:id":20069827,
         "hasc:id":"MS.SG",
+        "iso:code":"MS-G",
         "iso:id":"MS-G",
         "qs_pg:id":1083252
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MS",
-    "wof:geomhash":"b97f54c9bb12cb94d61def06f0aee63d",
+    "wof:geomhash":"1fb80277e098a4b46f7446b1f9b7b43d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -216,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494438,
+    "wof:lastmodified":1695884763,
     "wof:name":"Saint Georges",
     "wof:parent_id":85632677,
     "wof:placetype":"region",

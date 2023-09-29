@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002707,
-    "geom:area_square_m":32041764.952638,
+    "geom:area_square_m":32041740.690684,
     "geom:bbox":"-62.225458,16.738967,-62.170033,16.819322",
     "geom:latitude":16.77775,
     "geom:longitude":-62.197229,
@@ -550,12 +550,14 @@
         "gn:id":3578039,
         "gp:id":20069828,
         "hasc:id":"MS.SP",
+        "iso:code":"MS-P",
         "iso:id":"MS-P",
         "qs_pg:id":1083392,
         "wd:id":"Q33923"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MS",
-    "wof:geomhash":"de1f5338f013065dd3d22be1579a4494",
+    "wof:geomhash":"0d4f34c32bd58d31716263417dea77a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -572,7 +574,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690846213,
+    "wof:lastmodified":1695884763,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632677,
     "wof:placetype":"region",

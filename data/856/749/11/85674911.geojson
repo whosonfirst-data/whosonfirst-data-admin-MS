@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004274,
-    "geom:area_square_m":50620246.798646,
+    "geom:area_square_m":50620402.626021,
     "geom:bbox":"-62.230133,16.67536,-62.140533,16.747808",
     "geom:latitude":16.709321,
     "geom:longitude":-62.188078,
@@ -207,11 +207,13 @@
         "gn:id":3578045,
         "gp:id":20069826,
         "hasc:id":"MS.SA",
+        "iso:code":"MS-A",
         "iso:id":"MS-A",
         "qs_pg:id":1083236
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MS",
-    "wof:geomhash":"496821164a09eb7e7b24d52ced1ec80d",
+    "wof:geomhash":"685606140707b95b6e0faad24b3718b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -228,7 +230,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494437,
+    "wof:lastmodified":1695884763,
     "wof:name":"Saint Anthony",
     "wof:parent_id":85632677,
     "wof:placetype":"region",
